@@ -5,7 +5,7 @@ Features:
 
 Integration with external APIs.
 
-To launch your react project in your browser,
+To launch your project in your browser,
 
 1. Download Node.js
 
