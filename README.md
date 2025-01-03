@@ -5,7 +5,7 @@ Features:
 
 Integration with external APIs.
 
-To launch your project in your browser,
+To launch the project in your browser,
 
 1. Download Node.js
 
